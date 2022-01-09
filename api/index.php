@@ -59,6 +59,9 @@
  	<div class="modal fade" id="afis-modal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
  		<div class="modal-dialog  modal-dialog-centered modal-fullscreen-lg-down">
  			<div class="modal-content h-auto">
+ 				<div class="modal-header">
+			        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+		      	</div>
  				<div class="modal-body">
  					<img class="d-block w-100" id="modalImage" src="">
  				</div>
